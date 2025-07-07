@@ -41,4 +41,4 @@ Model Accuracy: The Linear Regression model achieved decent performance, with an
 Limitations: Rainfall prediction is inherently noisy; performance could be improved using more complex models like Decision Trees or Random Forests.
 
 Final Thoughts
-The project successfully demonstrated how linear models can be used for rainfall prediction based on weather indicators. Although the predictions are not perfect, they provide valuable insight into weather trends. Future improvements could include trying non-linear models, adding more weather-related features, or using deep learning for time-series forecasting.
+The project successfully demonstrated how linear models can be used for rainfall prediction based on weather indicators. Although the predictions are not perfect, they provide valuable insight into weather trends. Future improvements could include trying non-linear models, adding more weather-related features, or using deep learning for time-series forecasting.  
